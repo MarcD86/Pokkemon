@@ -41,6 +41,7 @@ Weet je niet wat voor variabelen je jouw klassen kunt meegeven? Denk eens aan:
 
 Pokèmon kunnen ook ontzettend veel verschillende acties uitvoeren. Zo kun je denken aan de volgende methodes:
 
+//these are methods !
 - `eats()`
 - `speaks()`
 - `thunderPunch()`
